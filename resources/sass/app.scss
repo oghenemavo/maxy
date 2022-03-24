@@ -1,0 +1,95 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+// Variables
+@import 'variables';
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+
+//#c2acf4
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+.login_banner{
+  background-color: rgb(114, 110, 110);
+}
+.m-login__container {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white !important;
+  text-align: center;
+
+  .m-login__form-sub {
+    //color: #333;
+  }
+}
+
+
+.m-btn m-btn--pill{
+  color:white !important;
+}
+.m-login__signin {
+  margin: 20px 40px;
+
+  .info-text {
+    font-size: 1.2rem;
+  }
+}
+
+.m-login__form {
+  margin-top: 10px !important;
+}
+
+#m_login_signin_submit {
+  //color: #c2acf4;
+}
+
+.m-login__head {
+  margin-bottom: 10px;
+  padding: 0;
+}
+
+.m-login__logo {
+  //a {
+  //  display: block;
+  //  max-height: 100px;
+  //
+  //  img {
+  //    width: 100%;
+  //  }
+  //}
+}
+
+.login-form-header {
+
+  img {
+    width: 120px;
+  }
+}
+
+.login-form-banner {
+
+  img {
+    width: 100%;
+  }
+}
+
+.login-form-footer {
+  margin-top: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: {
+    top: solid 1px rgba(200, 200, 200, 0.8);
+  }
+
+  img {
+    width: 130px;
+  }
+}
+
+//.m-header__top {
+//  .m-container {
+//    margin-bottom: 30px !important;
+//  }
+//}

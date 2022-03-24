@@ -1,0 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);.navbar-laravel{background-color:#fff;-webkit-box-shadow:0 2px 4px rgba(0,0,0,.04);box-shadow:0 2px 4px rgba(0,0,0,.04)}.m-login__container{background-color:rgba(0,0,0,.5);color:#fff!important;text-align:center}.m-login__signin{margin:20px 40px}.m-login__signin .info-text{font-size:1.2rem}.m-login__form{margin-top:10px!important}.m-login__head{margin-bottom:10px;padding:0}.login-form-header img{width:120px}.login-form-banner img{width:100%}.login-form-footer{margin-top:40px;padding-top:20px;padding-bottom:20px;border-top:1px solid hsla(0,0%,78%,.8)}.login-form-footer img{width:130px}
+
+/* a:active{
+    color: #DB5126 !important;
+} */
